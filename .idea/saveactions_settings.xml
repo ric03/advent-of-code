@@ -12,7 +12,7 @@
         <option value="missingOverrideAnnotation" />
         <option value="useBlocks" />
         <option value="explicitTypeCanBeDiamond" />
-        <option value="unnecessarySemicolon" />
+        <option value="suppressAnnotation" />
       </set>
     </option>
     <option name="configurationPath" value="" />
