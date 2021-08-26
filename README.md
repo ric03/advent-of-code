@@ -12,6 +12,12 @@ https://adventofcode.com/about
 |05|java|
 |06|?|
 
+### 2019
+|Day|Language(s)|
+|---|---|
+|01|kotlin|
+
+
 ### useful links
 
 https://medium.com/backend-habit/intellij-idea-running-multiple-project-microservices-in-one-workspace-d61126fe0eef
