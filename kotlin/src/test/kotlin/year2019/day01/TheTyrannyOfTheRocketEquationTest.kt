@@ -1,7 +1,9 @@
-package year2019
+package year2019.day01
 
 import io.kotest.core.spec.style.FreeSpec
 import io.kotest.matchers.shouldBe
+import year2019.calculateRequiredFuel
+import year2019.calculateRequiredFuelSum
 
 @Suppress("unused")
 class TheTyrannyOfTheRocketEquationTest : FreeSpec({
