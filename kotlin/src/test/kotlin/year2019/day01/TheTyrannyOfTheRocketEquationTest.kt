@@ -5,7 +5,6 @@ import io.kotest.matchers.shouldBe
 import year2019.calculateRequiredFuel
 import year2019.calculateRequiredFuelSum
 
-@Suppress("unused")
 class TheTyrannyOfTheRocketEquationTest : FreeSpec({
 
   "Calculate fuel required for mass" - {
