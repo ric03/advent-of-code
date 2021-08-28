@@ -22,6 +22,7 @@ class TheTyrannyOfTheRocketEquationTest : FreeSpec({
   }
 
   "Calculate the sum of required fuel" {
-    calculateRequiredFuelSum("src/test/resources/2019/day01-tom.txt") shouldBe 3268951
+    val resourceFile = "src/test/resources/2019/01.1-test.txt"
+    calculateRequiredFuelSum(resourceFile) shouldBe (2 + 2 + 654 + 33583)
   }
 })
