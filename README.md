@@ -10,7 +10,8 @@ https://adventofcode.com/about
 |03|java|
 |04|java|
 |05|java|
-|06|?|
+|06|kotlin|
+|07||
 
 ### 2019
 |Day|Language(s)|
